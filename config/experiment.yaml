@@ -1,0 +1,15 @@
+experiment:
+  name: yoloe_chess_v1
+  seed: default (framework)
+  device: cuda
+
+training:
+  epochs: 80
+  batch_size: 4
+  img_size: 512
+  patience: 10
+  optimizer: AdamW (default)
+  lr: 0.01
+
+logging:
+  save_dir: results/

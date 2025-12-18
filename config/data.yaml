@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 12
+names: ['BB', 'BK', 'BKN', 'BP', 'BQ', 'BR', 'WB', 'WK', 'WKN', 'WP', 'WQ', 'WR']
+
+roboflow:
+  workspace: yolo-ja0zo
+  project: chess-pieces-kaid5
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolo-ja0zo/chess-pieces-kaid5/dataset/3

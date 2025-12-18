@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Training outputs
+runs/
+results/raw/
+
+# Large artifacts
+*.pt
+*.onnx
+*.ts
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,17 @@
+{
+  "epoch": 37.0,
+  "time": 358.391,
+  "train/box_loss": 0.77357,
+  "train/cls_loss": 0.77613,
+  "train/dfl_loss": 1.03037,
+  "metrics/precision(B)": 0.67207,
+  "metrics/recall(B)": 0.65451,
+  "metrics/mAP50(B)": 0.75538,
+  "metrics/mAP50-95(B)": 0.54175,
+  "val/box_loss": 1.05723,
+  "val/cls_loss": 0.96841,
+  "val/dfl_loss": 1.02705,
+  "lr/pg0": 0.000346563,
+  "lr/pg1": 0.000346563,
+  "lr/pg2": 0.000346563
+}
