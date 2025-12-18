@@ -20,16 +20,6 @@ The full dataset is not included in this repository due to size constraints. How
 Download the full dataset from:
 https://universe.roboflow.com/yolo-ja0zo/chess-pieces-kaid5/dataset/3
 
-Expected structure:
-
-data/
-├── images/
-│ ├── train/
-│ └── val/
-└── labels/
-├── train/
-└── val/
-
 ## Configurations
 
 Key training parameters are documented in 'config/'
